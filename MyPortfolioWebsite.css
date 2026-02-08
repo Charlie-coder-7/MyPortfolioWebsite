@@ -1,0 +1,92 @@
+@font-face {
+    font-family: Nothing;
+    src: url(./Ndot-55.otf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+background-color: white;
+  height: 100%;
+  width: 100%; 
+}
+#Name{
+    height: 200px;
+    background-color: rgb(21, 21, 98);
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+}
+#About{
+    height: 300px;
+    text-align: center;
+    padding-top: 90px;
+    font-family: Nothing;
+    font-weight: 200;
+
+}
+#Education{
+    height: 250px;
+    background-color: rgb(162, 202, 218);
+    text-align: center;
+    padding: 40px 300px; 
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;   
+}
+#Education h3{
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 30px;
+}
+#Skills{
+    height: 400px;
+    background-color:rgb(228, 226, 152);
+    text-align: center;
+    font-family: Nothing;
+    padding: 40px 300px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 80px;
+}
+#Skills h2{
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 30px;
+}
+#Projects{
+    height: 300px;
+    background-color: white;
+    text-align: center;
+    padding: 20px 300px;
+    font-family: serif;
+    
+}
+#Projects h3{
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+#Contact{
+    height: 300px;
+    background-color: rgb(177, 222, 141);
+    text-align: center;
+    padding: 40px 300px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
+#Contact h3{
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+#CopyRight{
+    height: 60px;
+    background-color: rgb(21, 21, 98);
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
